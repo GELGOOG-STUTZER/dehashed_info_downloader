@@ -32,5 +32,4 @@ if __name__ == '__main__':
         f.write(data_to_write[x])
     f.write(']')
     f.close()
-    #   result_string_parsing('"id": 5603803856, "email": "test@test", "username": "", "password": "test"')
-    #   print('Everything is fine\n')
+    
